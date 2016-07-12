@@ -13,3 +13,7 @@ This file is just a readme file.
 ## Purpose
 
 To mess around with tags
+
+## Getting Started
+
+Do stuff to get started.
